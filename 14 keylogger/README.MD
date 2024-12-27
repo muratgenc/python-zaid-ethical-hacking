@@ -1,4 +1,5 @@
-```Changes Made:
+```
+Changes Made:
 	1.	Python 3 Interpreter Path: Updated the shebang to #!/usr/bin/env python3.
 	2.	String Concatenation: Used += for string concatenation in append_to_log.
 	3.	str(key.char) to key.char: Directly used key.char instead of converting it with str.
